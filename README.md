@@ -1,5 +1,5 @@
 #How to use Connection Resiliency
-
+![Screenshot](https://raw.githubusercontent.com/SuyashMShepHertz/UnityS2ConnectionResiliencySample/master/Screenshot/screenshot.png)
 To recover connection make sure you have set the recovery allowance by calling the setRecoveryAllowance API.
 
 ```C#

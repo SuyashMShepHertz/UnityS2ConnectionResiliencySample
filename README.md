@@ -1,4 +1,5 @@
-#How to use Connection Resiliency]
+#How to use Connection Resiliency
+
 To recover connection make sure you have set the recovery allowance by calling the setRecoveryAllowance API.
 
 ```C#
